@@ -544,7 +544,7 @@ section {
   }
 
   .about .image img {
-    max-width: 80%;
+    max-width: 100%; /*antes max-width: 80% */
   }
 }
 
