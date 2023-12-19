@@ -538,19 +538,19 @@ section {
   min-height: 300px;
 }
 
-@media (max-width: 900px) {/*antes max-width: 991 */
+@media (max-width: 991px) {/*antes max-width: 991 */
   .about .image {
     text-align: center;
   }
 
   .about .image img {
-    max-width: 80%; /*antes max-width: 80% */
+    max-width: 10%; /*antes max-width: 80% */
   }
 }
 
 @media (max-width: 600px) {/*antes max-width: 667 */
   .about .image img {
-    max-width: 100%;
+    max-width: 10%;/*antes max-width: 100% */
   }
 }
 
