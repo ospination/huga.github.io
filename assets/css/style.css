@@ -535,7 +535,7 @@ section {
 .about .image {
   background: url("../img/Actitud.png") center center no-repeat;
   background-size: cover;
-  min-height: 400px;
+  min-height: 300px;
 }
 
 @media (max-width: 900px) {/*antes max-width: 991 */
