@@ -1158,7 +1158,7 @@ section {
 #footer {
   background: #fff;
   padding: 24px 0;
-  font-size: 14px;
+  font-size: 5px;
   box-shadow: 0px 0 20px 0 rgba(0, 0, 0, 0.12);
 }
 
@@ -1169,5 +1169,5 @@ section {
 #footer .credits {
   padding-top: 8px;
   text-align: center;
-  font-size: 13px;
+  font-size: 5px;
 }
