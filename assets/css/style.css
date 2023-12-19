@@ -538,17 +538,17 @@ section {
   min-height: 400px;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 900px) {/*antes max-width: 991 */
   .about .image {
     text-align: center;
   }
 
   .about .image img {
-    max-width: 100%; /*antes max-width: 80% */
+    max-width: 80%; /*antes max-width: 80% */
   }
 }
 
-@media (max-width: 667px) {
+@media (max-width: 600px) {/*antes max-width: 667 */
   .about .image img {
     max-width: 100%;
   }
